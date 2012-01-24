@@ -1,10 +1,10 @@
 <?php /*
 Plugin Name: The Bar Steward
 Version: 0.1
-Plugin URI: https://github.com/PointandStare/Bar-Steward
+Plugin URI: https://github.com/PointandStare/The-Bar-Steward
 Author: Lee Rickler
 Author URI: http://rickler.com
-Description: Certain plugins hijack your back and front end admin bar. Kick them out with this plugin.
+Description: Certain WordPress plugins hijack your back and front end admin bar. Kick them out with this plugin.
 */
 
 // DESTROY YOAST EXTERNALS

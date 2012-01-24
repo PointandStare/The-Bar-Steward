@@ -6,7 +6,7 @@ Requires at least: 3.0
 Tested up to: 3.3.1
 Stable tag:0.1
 
-Certain plugins hijack your back and front end admin bar. Kick them out with this plugin.
+Certain WordPress plugins hijack your back and front end admin bar. Kick them out with this plugin.
 
 == Description ==
 
